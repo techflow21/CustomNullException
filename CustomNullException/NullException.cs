@@ -6,10 +6,10 @@ namespace CustomNullException
         public CustomNullException()
         {
         }
-        public CustomNullException(string message) : base(message)
+        public CustomNullException(string text) : base(text)
         {
         }
-        public CustomNullException(string message, Exception innerexception) : base(message, innerexception)
+        public CustomNullException(string text, Exception innerexception) : base(text, innerexception)
         {
         }
     }
