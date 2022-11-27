@@ -13,7 +13,7 @@
             }
             else
             {
-                Console.WriteLine("You entered: {0}, a Custom Exception.", text);
+                Console.WriteLine("You entered: {0}, This is a Custom Exception.", text);
             }
             Console.ReadLine();
         }
