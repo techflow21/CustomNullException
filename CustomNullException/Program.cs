@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter string or empty to test for Exception");
+            Console.WriteLine("Enter text or empty to test for Exception");
             string? text = Console.ReadLine();
 
             if (string.IsNullOrEmpty(text))
