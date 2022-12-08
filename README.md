@@ -1,2 +1,2 @@
 # CustomNullException
-To show case Custom Exception
+Custom Exception Implementation
