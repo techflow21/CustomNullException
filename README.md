@@ -1,2 +1,2 @@
 # CustomNullException
-Custom Exception Implementation in C# with example.
+Custom Exception Implementation in C# with examples
